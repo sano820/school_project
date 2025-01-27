@@ -4,17 +4,10 @@
 School_projects  
 ├── DataMining  
 │   ├── README.md    
-│   │   
 │   └── Data  
-│       └── README.md  
-│  
 ├── MDA  
-│   ├── README.md  
-│   │    
-│   └── Data  
-│       └── README.md  
-│   
+│   ├── README.md     
+│   └── Data   
 └── GoingDeeper  
-    ├── README.md  
-    │  
+    ├── README.md   
     └── Data  
