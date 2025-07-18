@@ -1,7 +1,6 @@
 # 데이터마이닝PBL
 담당교수님 : 전수영 교수님  
 언어 : R  
-수업 내용 :  
   
 ---  
     
@@ -13,4 +12,3 @@
   
 최종보고서 및 발표 자료  
 보고서 : [데이터마이닝 기말보고서.pdf](https://github.com/user-attachments/files/18554486/default.pdf)  
-발표 자료 :   
