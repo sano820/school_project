@@ -14,4 +14,3 @@
 최종보고서 및 발표 자료  
 보고서 :  
 발표 자료 : [다차원자료분석PBL_최종발표.pptx](https://github.com/user-attachments/files/18554436/PBL_.pptx)  
-+ 보고서와 발표자료는 미완성본..
